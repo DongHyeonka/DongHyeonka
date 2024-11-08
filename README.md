@@ -21,14 +21,14 @@
 ## 🏆 baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgus6435)](https://solved.ac/ehdgus6435/)
 
+## 📝 Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=donghyeon2&limit=1)](https://velog.io/@donghyeon2)
+
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 📝 Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=donghyeon2&limit=1)](https://velog.io/@donghyeon2)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
