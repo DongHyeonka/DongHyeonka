@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 어쩌구저쩌구 (감추고자 하는 내용)
 </summary>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyeonka&show_icons=true&theme=radical)
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 
 <a href="버튼을 눌렀을 때 이동할 크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
