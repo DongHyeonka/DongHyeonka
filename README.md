@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+<summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
+</summary>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyeonka&show_icons=true&theme=radical)
 
 <a href="버튼을 눌렀을 때 이동할 크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
