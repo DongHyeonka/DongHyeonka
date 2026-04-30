@@ -41,7 +41,7 @@ Keycloak · Vault · K3s 기반 인증 / 시크릿 관리 구조를 구성하고
 - 여러 소셜 로그인 분기 코드를 Keycloak 단일 연동으로 통합 → 인증 관련 코드 **50% 이상 감소** (provider별 파싱 클래스 제거 기준)
 - "어디까지가 Spring Security 책임이고, 어디부터가 Keycloak 책임인지" 경계를 명확히 분리
 
-**운영 인프라**
+**인프라 구성**
 
 - **Ingress 단 인증 차단 구조** — Traefik ForwardAuth + oauth2-proxy + Keycloak 조합으로 미인증 요청을 게이트에서 차단. 백엔드는 로그인 플로우를 직접 처리하지 않고, Spring Security Resource Server 가 Keycloak JWT 의 서명 / 만료 / issuer 를 다시 검증하는 구조로 분리
 - **Vault + VSO 시크릿 파이프라인** — KV-v2 값을 K8s Secret 으로 자동 동기화. VSO 의 ServiceAccount 1 개를 Vault role 2 개 (`auth-platform` / `storage`) 로 분리해 도메인별 최소 권한 보장 → auth 토큰이 유출돼도 storage secret 은 보호
